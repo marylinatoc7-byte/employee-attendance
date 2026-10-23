@@ -1,0 +1,16 @@
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.csproj.AssemblyReference.cache
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.loginform.resources
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.Properties.Resources.resources
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.csproj.GenerateResource.cache
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\bin\Debug\firstTryUIProjectOOP.exe.config
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\bin\Debug\firstTryUIProjectOOP.exe
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\bin\Debug\firstTryUIProjectOOP.pdb
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.exe
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.pdb
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.dashboardAdmin.resources
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.dashboardEmployee.resources
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.EmployeeListForm.resources
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.AddEmployeeForm.resources
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.DepartmentListForm.resources
+C:\Users\Mary Nicole Linatoc\Documents\activities 2nd year\1st sem\oop\firstTryUIProjectOOP\obj\Debug\firstTryUIProjectOOP.EmployeeRecordDetailsForm.resources
